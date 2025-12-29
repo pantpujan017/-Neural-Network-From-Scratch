@@ -8,7 +8,7 @@ A neural network built from scratch using NumPy to classify handwritten digits (
 - ReLU activation for hidden layer
 - Softmax activation for output layer
 - Gradient descent optimization
-- ~85% accuracy on training data
+- ~86% accuracy on training data
 
 ## Dataset
 
